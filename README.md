@@ -1,1 +1,1 @@
-# funMaths
+# Fun-maths-part-1
